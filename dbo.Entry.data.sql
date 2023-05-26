@@ -1,0 +1,2 @@
+﻿SET IDENTITY_INSERT [dbo].[Entry] ON
+SET IDENTITY_INSERT [dbo].[Entry] OFF
